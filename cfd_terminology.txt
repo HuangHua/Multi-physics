@@ -8,6 +8,7 @@ DNS (Direct Numerical Simulation)
 empirically 					        经验上；在实际生活中；估计
 empirical 						        凭经验的
 evolution						          演变；进化；发展；渐进
+exert[ɪɡˈzɜrt]                使受(影响等) (on； upon)；尽(努力等)
 extrapolate						        推断；判定；推测；推知;外推的
 extrapolation					        外推；外插；推断；外延
 friction velocity				      摩擦速度；磨擦流速；剪切流速
@@ -35,6 +36,7 @@ shroud[ʃraʊd]                 笼罩；护罩
 Spalart-Allmaras				      湍流模型选择单方程求解；一方程模型；单方程模型
 tabulate[ˈtæbjəˌleɪt]			    制…的一览表；使成平面
 tangential velocity				    切向速度；切线速度
+thrust                        推力；插入；戳
 torque                        扭矩；扭力；力矩
 Turbulence						        动荡；紊流；混乱；骚乱
 turbulent Prandtl number		  紊流普朗特数；湍流普朗特数
