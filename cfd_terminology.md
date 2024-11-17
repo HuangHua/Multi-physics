@@ -1,6 +1,6 @@
--Adiabatic[ˌædɪə'bætɪk]			 【物】绝热的；不传热的
--buffer layer					        缓冲层
--boundary layer					     【物】边界层
+- Adiabatic[ˌædɪə'bætɪk]			 【物】绝热的；不传热的
+- buffer layer					        缓冲层
+- boundary layer					     【物】边界层
 cumbersome						        大而笨重的；难以携带的；缓慢复杂的；冗长的
 defect layer					        缺陷层
 dimensionless 					      无量纲的；无因次的；深广无度的；无维的
