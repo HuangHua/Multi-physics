@@ -31,9 +31,11 @@ polynomials [ˌpɑliˈnoʊmiəl]	 【数】多项式的；【动,植】多词学
 Prandtl number 					      普朗特数；普兰特数；卜然托数
 Rotor/ Stator					       （机器的）转子/【电】(固)定子；【航】导向叶片压气机
 shear stress					        剪应力；剪切应力
+shroud[ʃraʊd]                 笼罩；护罩
 Spalart-Allmaras				      湍流模型选择单方程求解；一方程模型；单方程模型
 tabulate[ˈtæbjəˌleɪt]			    制…的一览表；使成平面
 tangential velocity				    切向速度；切线速度
+torque                        扭矩；扭力；力矩
 Turbulence						        动荡；紊流；混乱；骚乱
 turbulent Prandtl number		  紊流普朗特数；湍流普朗特数
 turbulent dissipation[ˌdɪsɪˈpeɪʃ(ə)n] 湍流耗散；湍耗散率；紊流消散率
