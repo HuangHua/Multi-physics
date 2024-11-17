@@ -1,8 +1,9 @@
 | Word  | Description |
 | ----- | ----------- |
-| 1. Adiabatic[ˌædɪə'bætɪk] | 【物】绝热的；不传热的 |
-| 2. buffer layer | 缓冲层 |
+| Adiabatic[ˌædɪə'bætɪk] | 【物】绝热的；不传热的 |
+| buffer layer | 缓冲层 |
 | boundary layer | 【物】边界层 |
+| Cartesian[kɑrˈtiʒən] | 笛卡尔；笛卡尔坐标系；笛卡尔的
 | cumbersome | 大而笨重的；难以携带的；缓慢复杂的；冗长的 |
 | defect layer | 缺陷层 |
 | dimensionless | 无量纲的；无因次的；深广无度的；无维的
@@ -19,23 +20,27 @@
 | heat capacity | 比热；制热量；热容积
 | heat flux | 热流；热通量
 | heat transfer | 热传导；传热学；热传递；热传输
+| incompressible | 不可压缩的；可压的；不可压流体 ~ flows
 | interior [ɪnˈtɪriər] | 内部的；里面的
 | Isothermal | 等温的；恒温；恒温扩增法
 | kinematic viscosity | 运动粘性系数；动力粘度；运动粘滞性
 | kinetic energy [kɪˈnetɪk] | 动能引；湍流动能；运动能量
 | logarithmic | 对数的
 | log layer | ??
+| Mach[mɑk] number | 马赫数
 | molecular[məˈlekjələr] | 分子的
 | momentum[moʊˈmentəm] | 动量；势头；动力；推进力
+| Navier-Stokes | 斯托克斯；纳维一斯托克斯；方程
 | no-slip walls | strictly zero for Navier-Stokes walls
 | slip walls | non-zero for Euler solid walls 
-| Navier-Stokes | 斯托克斯；纳维一斯托克斯；方程
 | polynomials [ˌpɑliˈnoʊmiəl] | 【数】多项式的；【动,植】多词学名的
 | Prandtl number | 普朗特数；普兰特数；卜然托数
+| regime[reɪˈʒim] | 政权；制度；政权制度
 | Rotor/ Stator | （机器的）转子/【电】(固)定子；【航】导向叶片压气机
 | shear stress | 剪应力；剪切应力
 | shroud[ʃraʊd] | 笼罩；护罩
 | Spalart-Allmaras | 湍流模型选择单方程求解；一方程模型；单方程模型
+| Subsonic | 亚音速的；次音速；次声
 | tabulate[ˈtæbjəˌleɪt] | 制…的一览表；使成平面
 | tangential velocity | 切向速度；切线速度
 | thrust | 推力；插入；戳
