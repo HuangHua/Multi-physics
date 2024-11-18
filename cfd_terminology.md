@@ -20,7 +20,9 @@
 | heat capacity | 比热；制热量；热容积
 | heat flux | 热流；热通量
 | heat transfer | 热传导；传热学；热传递；热传输
+| hydraulic[haɪˈdrɔlɪk] | 水力的；水压的；油压
 | incompressible | 不可压缩的；可压的；不可压流体 ~ flows
+| intensity | 强度；烈度；强烈；紧张
 | interior [ɪnˈtɪriər] | 内部的；里面的
 | Isothermal | 等温的；恒温；恒温扩增法
 | kinematic viscosity | 运动粘性系数；动力粘度；运动粘滞性
@@ -44,7 +46,7 @@
 | Spalart-Allmaras | 湍流模型选择单方程求解；一方程模型；单方程模型
 | Subsonic | 亚音速的；次音速；次声
 | tabulate[ˈtæbjəˌleɪt] | 制…的一览表；使成平面
-| tangential velocity | 切向速度；切线速度
+| tangential [tænˈdʒenʃəl] velocity | 切向速度；切线速度
 | turbomachinery | 涡轮机械
 | thrust | 推力；插入；戳
 | torque | 扭矩；扭力；力矩
@@ -52,6 +54,8 @@
 | turbulent Prandtl number | 紊流普朗特数；湍流普朗特数
 | turbulent dissipation[ˌdɪsɪˈpeɪʃ(ə)n] | 湍流耗散；湍耗散率；紊流消散率
 | vicinity | 附近；周围地区；邻近地区
+| viscosity[vɪˈskɑsəti]
+ | 粘度；黏度；粘性
 | viscous sub-layer | 粘性底层
 | viscous | 黏稠的；黏滞的
 | von Karman constant | 冯卡门常数；冯卡曼常数  (default value 0.41) 
