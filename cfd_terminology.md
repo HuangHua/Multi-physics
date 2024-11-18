@@ -15,6 +15,7 @@
 | DNS (Direct Numerical Simulation)
 | empirically | 经验上；在实际生活中；估计
 | empirical | 凭经验的
+| entropy [ˈentrəpi] | 熵值；信息熵；平均信息量
 | Equilibrium [ˌekwɪˈlɪbriəm] | 平衡；均衡；均势；安宁
 | evolution | 演变；进化；发展；渐进
 | exert[ɪɡˈzɜrt] | 使受(影响等) (on； upon)；尽(努力等)
@@ -52,6 +53,7 @@
 | Radial  Equilibrium | 径向平衡
 | regime[reɪˈʒim] | 政权；制度；政权制度
 | Relaxation factor | 松弛系数；松驰因子
+| Riemann invariant | 黎曼不变量
 | Rotor/ Stator | （机器的）转子/【电】(固)定子；【航】导向叶片压气机
 | shear stress | 剪应力；剪切应力
 | shroud[ʃraʊd] | 笼罩；护罩
