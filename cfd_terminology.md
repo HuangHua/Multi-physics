@@ -28,6 +28,8 @@
 | logarithmic | 对数的
 | log layer | ??
 | Mach[mɑk] number | 马赫数
+| meridional [mə'rɪdɪənl] velocity | 轴面速度；子午面速度；南北向流速
+| modulus['mɒdʒələs] | 模量；绝对值；率
 | molecular[məˈlekjələr] | 分子的
 | momentum[moʊˈmentəm] | 动量；势头；动力；推进力
 | Navier-Stokes | 斯托克斯；纳维一斯托克斯；方程
@@ -43,6 +45,7 @@
 | Subsonic | 亚音速的；次音速；次声
 | tabulate[ˈtæbjəˌleɪt] | 制…的一览表；使成平面
 | tangential velocity | 切向速度；切线速度
+| turbomachinery | 涡轮机械
 | thrust | 推力；插入；戳
 | torque | 扭矩；扭力；力矩
 | Turbulence | 动荡；紊流；混乱；骚乱
