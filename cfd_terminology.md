@@ -2,11 +2,13 @@
 | ----- | ----------- |
 | adaptation | 改编剧本；调适；适应性
 | Adiabatic[ˌædɪə'bætɪk] | 【物】绝热的；不传热的 |
-| back flow | 逆流；回流逆流；向料斗逆流
+| back flow | 逆流；回流逆流；向料斗逆流 Backflow 
 | buffer layer | 缓冲层 |
 | boundary layer | 【物】边界层 |
 | Cartesian[kɑrˈtiʒən] | 笛卡尔；笛卡尔坐标系；笛卡尔的
+| characteristic[ˌkerəktəˈrɪstɪk] | 特征；特点；品质
 | circumferential[səˌkʌmfə'renʃəl] | 四周的；委婉的
+| condensable [kən'densəbəl] | 可凝结的；可压缩的；可缩短的
 | cumbersome | 大而笨重的；难以携带的；缓慢复杂的；冗长的 |
 | defect layer | 缺陷层 |
 | dimensionless | 无量纲的；无因次的；深广无度的；无维的
@@ -17,6 +19,7 @@
 | evolution | 演变；进化；发展；渐进
 | exert[ɪɡˈzɜrt] | 使受(影响等) (on； upon)；尽(努力等)
 | exit boundary | 流出边界
+| exit pressure | 出口压力
 | extrapolate | 推断；判定；推测；推知;外推的
 | extrapolation | 外推；外插；推断；外延
 | friction velocity | 摩擦速度；磨擦流速；剪切流速
@@ -30,6 +33,7 @@
 | intensity | 强度；烈度；强烈；紧张
 | interior [ɪnˈtɪriər] | 内部的；里面的
 | Isothermal | 等温的；恒温；恒温扩增法
+| iterative [ˈɪtərətɪv] | 重复的；叠接的
 | kinematic viscosity | 运动粘性系数；动力粘度；运动粘滞性
 | kinetic energy [kɪˈnetɪk] | 动能引；湍流动能；运动能量
 | logarithmic | 对数的
@@ -47,11 +51,13 @@
 | Prandtl number | 普朗特数；普兰特数；卜然托数
 | Radial  Equilibrium | 径向平衡
 | regime[reɪˈʒim] | 政权；制度；政权制度
+| Relaxation factor | 松弛系数；松驰因子
 | Rotor/ Stator | （机器的）转子/【电】(固)定子；【航】导向叶片压气机
 | shear stress | 剪应力；剪切应力
 | shroud[ʃraʊd] | 笼罩；护罩
 | Spalart-Allmaras | 湍流模型选择单方程求解；一方程模型；单方程模型
 | Subsonic | 亚音速的；次音速；次声
+| supersonic | 超声的；超声波的；超音波的
 | tabulate[ˈtæbjəˌleɪt] | 制…的一览表；使成平面
 | tangential [tænˈdʒenʃəl] velocity | 切向速度；切线速度
 | turbomachinery | 涡轮机械
