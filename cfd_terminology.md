@@ -23,9 +23,11 @@
 | exit pressure | 出口压力
 | extrapolate | 推断；判定；推测；推知;外推的
 | extrapolation | 外推；外插；推断；外延
+| Fourier [ˈfʊriˌei] | 傅立叶
 | friction velocity | 摩擦速度；磨擦流速；剪切流速
 | friction temperature | 摩擦温度
 | gradient | 倾斜度；梯度变化曲线
+| harmonic[hɑrˈmɑnɪk] | 谐波；谐波的；谐波电流
 | heat capacity | 比热；制热量；热容积
 | heat flux | 热流；热通量
 | heat transfer | 热传导；传热学；热传递；热传输
@@ -45,6 +47,7 @@
 | molecular[məˈlekjələr] | 分子的
 | momentum[moʊˈmentəm] | 动量；势头；动力；推进力
 | Navier-Stokes | 斯托克斯；纳维一斯托克斯；方程
+| neglect[nəˈɡlekt] | 忽视；忽略；玩忽；漏做
 | no-slip walls | strictly zero for Navier-Stokes walls
 | slip walls | non-zero for Euler solid walls 
 | spanwise | 翼展方向；延机翼展向；沿翼展方向的
@@ -56,6 +59,7 @@
 | Riemann invariant | 黎曼不变量
 | Rotor/ Stator | （机器的）转子/【电】(固)定子；【航】导向叶片压气机
 | shear stress | 剪应力；剪切应力
+| shock | 冲击；震荡；激波；震惊
 | shroud[ʃraʊd] | 笼罩；护罩
 | Spalart-Allmaras | 湍流模型选择单方程求解；一方程模型；单方程模型
 | Subsonic | 亚音速的；次音速；次声
@@ -71,8 +75,9 @@
 | vicinity | 附近；周围地区；邻近地区
 | viscosity[vɪˈskɑsəti] | 粘度；黏度；粘性
 | viscous sub-layer | 粘性底层
-| viscous | 黏稠的；黏滞的
+| viscous[ˈvɪskəs] | 黏稠的；黏滞的
 | von Karman constant | 冯卡门常数；冯卡曼常数  (default value 0.41) 
+| wake | (船航过时的)尾波；【航】尾流；余迹；踪迹；(船航过时的)尾波；【航】尾流；余迹；踪迹；航迹；
 | zero displacement | 零点位移
 
 
