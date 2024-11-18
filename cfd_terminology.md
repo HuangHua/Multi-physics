@@ -54,8 +54,7 @@
 | turbulent Prandtl number | 紊流普朗特数；湍流普朗特数
 | turbulent dissipation[ˌdɪsɪˈpeɪʃ(ə)n] | 湍流耗散；湍耗散率；紊流消散率
 | vicinity | 附近；周围地区；邻近地区
-| viscosity[vɪˈskɑsəti]
- | 粘度；黏度；粘性
+| viscosity[vɪˈskɑsəti] | 粘度；黏度；粘性
 | viscous sub-layer | 粘性底层
 | viscous | 黏稠的；黏滞的
 | von Karman constant | 冯卡门常数；冯卡曼常数  (default value 0.41) 
