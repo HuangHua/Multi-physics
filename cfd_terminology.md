@@ -1,17 +1,22 @@
 | Word  | Description |
 | ----- | ----------- |
+| adaptation | 改编剧本；调适；适应性
 | Adiabatic[ˌædɪə'bætɪk] | 【物】绝热的；不传热的 |
+| back flow | 逆流；回流逆流；向料斗逆流
 | buffer layer | 缓冲层 |
 | boundary layer | 【物】边界层 |
 | Cartesian[kɑrˈtiʒən] | 笛卡尔；笛卡尔坐标系；笛卡尔的
+| circumferential[səˌkʌmfə'renʃəl] | 四周的；委婉的
 | cumbersome | 大而笨重的；难以携带的；缓慢复杂的；冗长的 |
 | defect layer | 缺陷层 |
 | dimensionless | 无量纲的；无因次的；深广无度的；无维的
 | DNS (Direct Numerical Simulation)
 | empirically | 经验上；在实际生活中；估计
 | empirical | 凭经验的
+| Equilibrium [ˌekwɪˈlɪbriəm] | 平衡；均衡；均势；安宁
 | evolution | 演变；进化；发展；渐进
 | exert[ɪɡˈzɜrt] | 使受(影响等) (on； upon)；尽(努力等)
+| exit boundary | 流出边界
 | extrapolate | 推断；判定；推测；推知;外推的
 | extrapolation | 外推；外插；推断；外延
 | friction velocity | 摩擦速度；磨擦流速；剪切流速
@@ -37,8 +42,10 @@
 | Navier-Stokes | 斯托克斯；纳维一斯托克斯；方程
 | no-slip walls | strictly zero for Navier-Stokes walls
 | slip walls | non-zero for Euler solid walls 
+| spanwise | 翼展方向；延机翼展向；沿翼展方向的
 | polynomials [ˌpɑliˈnoʊmiəl] | 【数】多项式的；【动,植】多词学名的
 | Prandtl number | 普朗特数；普兰特数；卜然托数
+| Radial  Equilibrium | 径向平衡
 | regime[reɪˈʒim] | 政权；制度；政权制度
 | Rotor/ Stator | （机器的）转子/【电】(固)定子；【航】导向叶片压气机
 | shear stress | 剪应力；剪切应力
