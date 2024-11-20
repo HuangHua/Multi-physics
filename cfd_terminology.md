@@ -11,6 +11,7 @@
 | circumferential[səˌkʌmfə'renʃəl] | 四周的；委婉的
 | condensable [kən'densəbəl] | 可凝结的；可压缩的；可缩短的
 | continuum | [数]连续统；[经]连续统一体；闭联集；[物]连续区；
+| computational continuum mechanics | 计算连续介质力学
 | cumbersome | 大而笨重的；难以携带的；缓慢复杂的；冗长的 |
 | defect layer | 缺陷层 |
 | dimensionless | 无量纲的；无因次的；深广无度的；无维的
