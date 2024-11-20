@@ -2,6 +2,7 @@
 | ----- | ----------- |
 | adaptation | 改编剧本；调适；适应性
 | Adiabatic[ˌædɪə'bætɪk] | 【物】绝热的；不传热的 |
+| amenable | （对法律等）负责的；易控制的；经得起检验（或考查）的；可用某种方式处理的；
 | back flow | 逆流；回流逆流；向料斗逆流 Backflow 
 | buffer layer | 缓冲层 |
 | boundary layer | 【物】边界层 |
@@ -9,6 +10,7 @@
 | characteristic[ˌkerəktəˈrɪstɪk] | 特征；特点；品质
 | circumferential[səˌkʌmfə'renʃəl] | 四周的；委婉的
 | condensable [kən'densəbəl] | 可凝结的；可压缩的；可缩短的
+| continuum | [数]连续统；[经]连续统一体；闭联集；[物]连续区；
 | cumbersome | 大而笨重的；难以携带的；缓慢复杂的；冗长的 |
 | defect layer | 缺陷层 |
 | dimensionless | 无量纲的；无因次的；深广无度的；无维的
